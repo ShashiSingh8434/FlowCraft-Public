@@ -123,21 +123,33 @@ FlowCraft is useful for:
 
 ## 📸 Screenshots
 
-<img width="720" height="1600" alt="screenshot_FlowCraft - v1 0 1_1780926582661" src="https://github.com/user-attachments/assets/cb80390c-ef18-40cd-ac55-d58abd5cdee0" />
-<img width="720" height="1600" alt="screenshot_FlowCraft - v1 0 1_1780926590950" src="https://github.com/user-attachments/assets/a84de58d-c80c-44af-afff-f9f2bfb6569a" />
-<img width="720" height="1600" alt="screenshot_FlowCraft - v1 0 1_1780926680897" src="https://github.com/user-attachments/assets/2b9bc18c-819c-4b93-a491-c2240878191f" />
-<img width="720" height="1600" alt="screenshot_FlowCraft - v1 0 1_1780926734202" src="https://github.com/user-attachments/assets/072a3759-05ec-484d-abf5-b7713bb5dbe3" />
-<img width="720" height="1600" alt="screenshot_FlowCraft - v1 0 1_1780926752697" src="https://github.com/user-attachments/assets/f2250cdb-b4e8-488c-b876-a5253f119e64" />
-<img width="720" height="1600" alt="screenshot_FlowCraft - v1 0 1_1780926816763" src="https://github.com/user-attachments/assets/219cf8ae-b200-4afb-bbc2-6d5f7dd3356f" />
-<img width="720" height="1600" alt="screenshot_FlowCraft - v1 0 1_1780926826491" src="https://github.com/user-attachments/assets/2bfe871c-be3a-4169-91f4-755b3f856590" />
-<img width="720" height="1600" alt="screenshot_FlowCraft - v1 0 1_1780926848172" src="https://github.com/user-attachments/assets/3645d6c6-351f-43b5-9ae5-763b91ac325f" />
-<img width="720" height="1600" alt="screenshot_FlowCraft - v1 0 1_1780926879315" src="https://github.com/user-attachments/assets/6331d374-eea1-4425-b035-fffa7a4a9f37" />
-<img width="720" height="1600" alt="screenshot_FlowCraft - v1 0 1_1780926888132" src="https://github.com/user-attachments/assets/59308667-2abb-4bc0-8a9b-42938845a1d2" />
-<img width="720" height="1600" alt="screenshot_FlowCraft - v1 0 1_1780926894738" src="https://github.com/user-attachments/assets/0a323616-e8f8-43d6-b010-e6d4f7b73c99" />
-<img width="720" height="1600" alt="screenshot_FlowCraft - v1 0 1_1780926939538" src="https://github.com/user-attachments/assets/02893104-4645-4ff2-942d-088c633b595e" />
+<table>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/cb80390c-ef18-40cd-ac55-d58abd5cdee0" width="220"/></td>
+<td><img src="https://github.com/user-attachments/assets/a84de58d-c80c-44af-afff-f9f2bfb6569a" width="220"/></td>
+<td><img src="https://github.com/user-attachments/assets/2b9bc18c-819c-4b93-a491-c2240878191f" width="220"/></td>
+<td><img src="https://github.com/user-attachments/assets/072a3759-05ec-484d-abf5-b7713bb5dbe3" width="220"/></td>
+</tr>
 
+<tr>
+<td><img src="https://github.com/user-attachments/assets/f2250cdb-b4e8-488c-b876-a5253f119e64" width="220"/></td>
+<td><img src="https://github.com/user-attachments/assets/219cf8ae-b200-4afb-bbc2-6d5f7dd3356f" width="220"/></td>
+<td><img src="https://github.com/user-attachments/assets/2bfe871c-be3a-4169-91f4-755b3f856590" width="220"/></td>
+<td><img src="https://github.com/user-attachments/assets/3645d6c6-351f-43b5-9ae5-763b91ac325f" width="220"/></td>
+</tr>
 
+<tr>
+<td><img src="https://github.com/user-attachments/assets/6331d374-eea1-4425-b035-fffa7a4a9f37" width="220"/></td>
+<td><img src="https://github.com/user-attachments/assets/59308667-2abb-4bc0-8a9b-42938845a1d2" width="220"/></td>
+<td><img src="https://github.com/user-attachments/assets/0a323616-e8f8-43d6-b010-e6d4f7b73c99" width="220"/></td>
+<td><img src="https://github.com/user-attachments/assets/02893104-4645-4ff2-942d-088c633b595e" width="220"/></td>
+</tr>
+</table>
 ---
+
+# Video
+
+https://github.com/user-attachments/assets/ee893185-dae9-4e55-8ca6-2f35f49c7b6c
 
 ## 🎯 Vision
 
