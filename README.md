@@ -521,55 +521,6 @@ projects
 ```
 ```
 
-# 🚀 Getting Started
-
-## Clone Repository
-
-```bash
-git clone https://github.com/ShashiSingh8434/FlowCraft-Public.git
-cd project-folder
-```
-
----
-
-## Install Dependencies
-
-```bash
-flutter pub get
-```
-
----
-
-## Configure Firebase
-
-Install FlutterFire CLI:
-
-```bash
-dart pub global activate flutterfire_cli
-```
-
-Run:
-
-```bash
-flutterfire configure
-```
-
-This generates:
-
-```text
-firebase_options.dart
-```
-
----
-
-## Run Application
-
-```bash
-flutter run
-```
-
----
-
 # 🛣️ Roadmap
 
 ## Completed
